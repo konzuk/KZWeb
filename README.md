@@ -1,2 +1,1 @@
-# KZWeb
 # Web
